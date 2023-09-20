@@ -2,25 +2,36 @@ import { OpenAI } from "langchain";
 import { initializeAgentExecutor } from "langchain/agents";
 import { SerpAPI, Calculator } from "langchain/tools";
 
+
 /**
  * Agents are like bots/personal assistants that can take actions using external
  * tools based on instructions from the LLM
  */
 
 export const run = async () => {
-  const model = new OpenAI({ temperature: 0 });
+  const model = new OpenAI({ 
+    temperature: 0,
+   });
+
+ 
+
+
   // A tool is a function that performs a specific duty
   // SerpAPI for example accesses google search results in real-time
   const tools = [new SerpAPI(), new Calculator()];
 
-  const executor = await initializeAgentExecutor(
+
+  
+
+const executor = await initializeAgentExecutor(
     tools,
     model,
-    "zero-shot-react-description" //a framework to decide what tool to use based on tool's description
-  );
+    "zero-shot-react-description" //a framework to decide what tool to use based on tool's description,
+    
+  ); 
   console.log("Loaded agent.");
 
-  const input = `What are the total number of countries in Africa raised to the power of 3?`;
+  const input = `You are a sports analyst for the NFL. Will the Dallas Cowboys win this week?`;
 
   console.log(`Executing with input "${input}"...`);
 

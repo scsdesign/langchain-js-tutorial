@@ -11,7 +11,7 @@ export const run = async () => {
   });
 
   const res = prompt.format({
-    country: "France",
+    country: "Greece",
   });
   console.log(res);
   // output: "What is the capital city of France?"

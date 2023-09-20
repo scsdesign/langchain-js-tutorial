@@ -1,0 +1,223 @@
+Team Reviews 
+
+_______________________________________
+
+
+Ritz
+
+Ritz has been leading design for the Webmail team and quite honestly, may be underutilized. Ritz is a great designer across the spectrum from UX to UI. He has the ability to grasp complex concepts and translate them into innovative and simple customer experiences. He has fantastic UI / visual design skills and a solid understanding of technology and what’s possible. He’s highly organized, possesses great presentation skills and has established himself as an integral part of his product team. I would love see Ritz mentoring more junior designers or even moving towards a leadership role. His approachability, willingness to help out and educational background in HCI is a huge asset to the team.
+
+YTD Achievements
+
+	⁃	Ongoing support for webmail team
+	⁃	Webmail prototype for exec demos
+	⁃	Expanded privacy designs
+
+
+
+Strengths
+
+	⁃	Takes ownership
+	⁃	Communication
+	⁃	Infectious Passion for his craft
+	⁃	Seeks feedback
+	⁃	Problem-solving / Design Solutions
+	⁃	UI / Visual Design
+
+
+Opportunities
+
+	⁃	Influence on the greater design team
+	⁃	Building relationships outside his team
+	⁃	Start setting the vision for his part of the product
+	⁃	Work on understanding our customers, products, and offerings
+	⁃	Better understanding the holistic customer experience (outside of webmail)
+	⁃	Mentoring more jr. designers
+
+
+_______________________________________
+
+
+
+Heather Merrill
+
+Heather has been handling design for the Account and Onboarding side of the ASO team along with Michaela. It made sense for Michaela to help Heather out due to the velocity of that development team at the time, and it seemed like a good opportunity to let Heather get some experience mentoring a more jr. designer. 
+
+Heather’s accomplishments this year have been delivering the redesign of the settings pages, running a notifications workshop with stakeholders from multiple orgs, and some minor updates to the MSA application. 
+
+YTD Achievements:
+
+	⁃	Redesign of the settings section of Spectrum.net
+	⁃	Notifications workshop with Stakeholders from multiple orgs
+	⁃	Orders page designs w/Michaela
+	⁃	Seasonal Suspend early UX w/Michaela
+	⁃	Onboarding and mentoring Michaela
+
+
+
+Strengths: 
+
+Heather has worked with multiple teams at Charter and has a ton of knowledge. Her biggest strengths are thinking through the User Journey, problem-solving, working across teams, and user advocacy. Her ability to work across teams, facilitate collaboration, and get alignment is underutilized and should be fostered more if possible.
+
+	⁃	Working across teams
+	⁃	Thinking through the user journey
+	⁃	Organization
+	⁃	Facilitation
+
+
+
+Opportunities:
+
+If Heather moves into a leadership role, her biggest area of opportunity will be working on her skills to trust and empower her team. I have observed that she can lean towards micro-managing with Michaela and sometimes be hesitant or open to others’ ideas. She and I have discussed these issues, and the great news is that she’s self-aware and just needs a little work here. In addition, Heather would benefit from keeping up with modern interaction and UI patterns and focusing on a mobile-first approach to design.
+
+
+	⁃	Better understanding the holistic customer experience
+	⁃	Learning to think and design from a mobile-first perspective
+	⁃	Be open to trying new approaches
+	⁃	Exploring new patterns and interactions 
+	⁃	Confidence in herself and her team
+	⁃	Leadership Styles
+
+
+
+_______________________________________
+
+
+Michaela Rich
+
+Michaela has been working with Heather on the Account and Onboarding team and has shown great progress for only being at Charter for a short time. She grasps complex concepts and problems quickly and approaches solutions from multiple angles and approaches. She’s fairly junior but has shown great initiative and willingness to listen and learn. She regularly reaches out to team members for feedback and is always eager to share her work in our design meetings regardless of fidelity. 
+
+
+
+YTD Achievements
+	⁃	Online orders
+	⁃	Seasonal suspend
+	⁃	Notifications Workshop
+
+
+Strengths: 
+
+	⁃	Open to learning and growing
+	⁃	Shows up and participates
+	⁃	Actively reaches out to get feedback
+	⁃	Solid UX Journey thinking
+
+
+Opportunities:
+
+	⁃	Work on understanding our customers, products, and offerings
+	⁃	Better understanding the holistic customer experience
+	⁃	Get to intimately know the Kite design system
+	⁃	Build relationships across other teams
+	⁃	Soak up lots of design examples and interaction patterns
+
+_______________________________________
+
+
+
+Steve Trujillo
+
+Steve is a great team player and truly takes full ownership of all of his responsibilities. He’s an integral part of the billing team and has a deep understanding of our customers and our products and services. He’s a true collaborator and has set the standard for our team on how designers should work across Research, Product, Content Design, and Development. His passion and communication approach inspire and motivate our team when he presents his work, and he’s very well respected and liked across all teams he interacts with. As one of the more tenured designers, he’s a wealth of knowledge on the history of our design team, the products we work on, and the customers we serve.
+
+
+
+
+YTD Achievements
+
+	⁃	Unified wallet
+	⁃	Billing updates in MSA
+	⁃	Concepts for GPM
+	⁃	Mentoring Zoe
+	⁃	Setting an amazing example of how to collaborate 
+
+
+Strengths
+
+
+	⁃	Collaboration
+	⁃	Seeking and receiving feedback
+	⁃	Communication and presenting
+	⁃	Problem solving and design
+	⁃	Advocating for design and our customers
+	⁃	Inspiring his team
+
+
+Opportunities
+
+As Steve takes on more of a mentor or leadership role, he will need to work on empowering his team and letting them take ownership of their work. I’ve noticed that he tends to speak over Zoe sometimes when she presents her work, usually just trying to clarify, but it clearly can be frustrating and diminishing for her. There is absolutely no ill intent here on Steve’s part. It’s simply something he needs to actively work on. Steve and I have spoken about this. Zoe has let him know as well. So he is aware and was very receptive to the feedback.
+
+
+	⁃	Letting go. Empowering his team to completely own their work ( but don’t let them run into a wall )
+	⁃	Focus on mobile-first design approaches and how to optimize for smaller screens
+	⁃	Influencing the greater design team
+	⁃	Better understanding the holistic customer experience ( beyond billing)
+	⁃	Organization
+
+_______________________________________
+
+
+Zoe Roswold
+
+Although Zoe is one of the more junior designers on our team, she has impressed the team with her initiative, innovation, and growth. She transferred over to assist Steve on the billing team earlier this year which is a great pair-up for both parties. Zoe is a no-BS type of person and is not afraid to advocate for herself. She is meticulously organized, takes initiative, and seeks out growth opportunities.  Being newer to Charter and the billing team, she brings a unique perspective and approach to her solutions. 
+
+
+YTD Achievements
+
+	⁃	Moved to Billing team
+	⁃	Concepts for GPM
+	⁃	Concepts for SMB billing moving to Enterprise
+	⁃	Ongoing support for billing
+	⁃	Spearheaded and helped facilitate the Notifications workshop
+
+Strengths
+
+	⁃	Open to learning and growing
+	⁃	Open communication
+	⁃	Shows up and participates
+	⁃	Actively reaches out to get feedback
+	⁃	Problem Solving and Design Solutions
+	⁃	Takes Initiative
+	⁃	Organization
+
+
+
+Opportunities
+
+	⁃	Work on better understanding our customers, products, and offerings
+	⁃	Better understanding the holistic customer experience ( beyond billing)
+	⁃	Get to intimately know Kite
+	⁃	Build relationships across other teams
+	⁃	Soak up lots of design and interaction examples
+
+_______________________________________
+
+
+Audrey Fajfer
+
+Audrey is the most junior member on our team but arguably has more raw talent, especially on the UI side, than most of our designers. This is her first design job, and she does require mentorship and coaching. Regardless of her experience level, I’ve been thoroughly impressed with her tenacity, willingness to be coached, and overall approach to design and solution quality. She actively seeks feedback from the design team, facilitates reviews and working sessions with her scrum team, and doesn’t shy away from presenting her work. She struggled a bit with communication on her scrum team, but with some guidance, she quickly rectified the problem and is becoming an integral part of the SCS product team.
+
+Achievements
+
+	⁃	Overall design and direction for SCS Content Insertion
+	⁃	Facilitated and conducted user testing with internal users
+	⁃	Worked with team to balance concept direction and fastest path to delivery
+	⁃	Helped out with Privacy updates to ease the workload on Ritz
+
+Strengths
+
+	⁃	Open to learning and growing
+	⁃	Shows up and participates
+	⁃	Actively reaches out to get feedback
+	⁃	Problem Solving and Design Solutions
+	⁃	Initiative
+	⁃	Organization
+
+
+
+Opportunities
+
+	⁃	Work on better understanding our customers, products, and offerings
+	⁃	Better understanding the holistic customer experience
+	⁃	Get to intimately know Kite
+	⁃	Build relationships and become an integral part of the SCS team
+	⁃	Soak up lots of design and interaction examples

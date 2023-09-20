@@ -26,7 +26,7 @@ export const run = async () => {
 
     // Load file that we want to ask questions from
     const text = fs.readFileSync(
-      require.resolve("../state_of_the_union.txt"),
+      require.resolve("../text.txt"),
       "utf8"
     );
 
@@ -39,7 +39,7 @@ export const run = async () => {
     const docs = textSplitter.createDocuments([text]);
 
     //retrieve API operations for index created in pinecone dashboard
-    const index = pinecone.Index("langchainjsfundamentals");
+    const index = pinecone.Index("pdf-dump");
 
     /*
     create embeddings to extract text from document and send to openAI for embeddings then

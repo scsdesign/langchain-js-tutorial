@@ -17,7 +17,7 @@ export const run = async () => {
     });
 
     // retrieve API operations for index created in pinecone dashboard
-    const index = pinecone.Index("langchainjsfundamentals");
+    const index = pinecone.Index("pdf-dump");
 
     // crosscheck your index (that contains embeddings of your docs) exists in the vectorstore
     const indexData = await index.describeIndexStats({
@@ -26,7 +26,7 @@ export const run = async () => {
 
     console.log("indexData", indexData);
 
-    const query = "How many new jobs did the economy create last year?";
+    const query = "how did Steve perform?";
     const namespace = "test"; //change this to your own vectorbase namespace
 
     const response = await callVectorDBQAChain(query, index, namespace);
